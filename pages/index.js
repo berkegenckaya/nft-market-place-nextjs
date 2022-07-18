@@ -28,7 +28,7 @@ export default function Home() {
             authenticate({ signingMessage: "Authorize linking of your wallet" })
           }
         >
-          Connect Your Metamask Wallet!
+          Connect Your Metamsk Wallet!
         </button>
       </div>
     </div>
